@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @yvanmasnel
 - 🔭 Passionate about using data to drive business decisions
 - 🌱 I’m currently pursuing graduate studies in Information Technology 
-- ✊🏾 I’m looking to collaborate on projects, discussions to deepen our understanding of data analytics concepts and their applications
-- 💬 Ask me about data visualization techniques, Python programming, SQL, Machine Learning, Tableau, and Business Intelligence.
+- ✊🏾 I’m looking to collaborate on projects, and discussions to deepen our understanding of Software Engineering, Data Science concepts, and their applications
 - 📫 How to reach me: "masneltefiang@icloud.com"
 
 
