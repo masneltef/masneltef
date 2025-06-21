@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yvanmasnel
 - 🔭 Passionate about Software Engineering & the use of Data to drive business decisions
-- 🌱 I’m currently pursuing graduate studies in Information Technology 
-- ✊🏾 I’m looking to collaborate on projects, and discussions to deepen our understanding of Software Engineering, Data Science concepts, and their applications
+- 🌱 MSc in Information Technology 
+- ✊🏾 I’m looking to collaborate on projects and discussions to deepen our understanding of Software Engineering, Data Science concepts, and their applications
 - 📫 How to reach me: "masneltefiang@icloud.com"
 
 
